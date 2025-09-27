@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Galaxy S24",
+    "price": 250000,
+    "featured": true,
+    "rating": 4.7,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone 16 Pro",
+    "price": 450000,
+    "featured": false,
+    "rating": 4.9,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel 9 Pro",
+    "price": 320000,
+    "featured": true,
+    "rating": 4.6,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 12",
+    "price": 210000,
+    "featured": false,
+    "rating": 4.4,
+    "company": "One Plus"
+  },
+  {
+    "name": "iPhone 15",
+    "price": 350000,
+    "featured": true,
+    "rating": 4.8,
+    "company": "Apple"
+  },
+  {
+    "name": "Galaxy Z Fold 6",
+    "price": 520000,
+    "featured": false,
+    "rating": 4.3,
+    "company": "Samsung"
+  },
+  {
+    "name": "Pixel 8a",
+    "price": 180000,
+    "featured": false,
+    "rating": 4.1,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus Nord 4",
+    "price": 120000,
+    "featured": true,
+    "rating": 4.2,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy A55",
+    "price": 95000,
+    "featured": false,
+    "rating": 4.0,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone SE 4",
+    "price": 150000,
+    "featured": false,
+    "rating": 4.3,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel Fold 2",
+    "price": 480000,
+    "featured": true,
+    "rating": 4.5,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus Ace 3",
+    "price": 140000,
+    "featured": false,
+    "rating": 4.1,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy M35",
+    "price": 60000,
+    "featured": false,
+    "rating": 3.9,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 280000,
+    "featured": false,
+    "rating": 4.4,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel 7a",
+    "price": 160000,
+    "featured": true,
+    "rating": 4.2,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 11R",
+    "price": 175000,
+    "featured": true,
+    "rating": 4.3,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy Note 23",
+    "price": 380000,
+    "featured": true,
+    "rating": 4.6,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone 13 Mini",
+    "price": 220000,
+    "featured": false,
+    "rating": 4.2,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel 6 Pro",
+    "price": 200000,
+    "featured": false,
+    "rating": 4.1,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 10T",
+    "price": 195000,
+    "featured": false,
+    "rating": 4.0,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy A15",
+    "price": 55000,
+    "featured": false,
+    "rating": 3.8,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "price": 250000,
+    "featured": true,
+    "rating": 4.5,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel 5",
+    "price": 110000,
+    "featured": false,
+    "rating": 4.0,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "price": 185000,
+    "featured": true,
+    "rating": 4.3,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy Tab S9",
+    "price": 230000,
+    "featured": false,
+    "rating": 4.4,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone 11",
+    "price": 180000,
+    "featured": false,
+    "rating": 4.1,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel 4a",
+    "price": 95000,
+    "featured": false,
+    "rating": 3.9,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 8T",
+    "price": 135000,
+    "featured": false,
+    "rating": 4.0,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy Watch 7",
+    "price": 75000,
+    "featured": false,
+    "rating": 4.2,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone XR",
+    "price": 140000,
+    "featured": false,
+    "rating": 4.0,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel 3 XL",
+    "price": 85000,
+    "featured": false,
+    "rating": 3.8,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 7 Pro",
+    "price": 125000,
+    "featured": false,
+    "rating": 4.1,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy Buds 3",
+    "price": 35000,
+    "featured": false,
+    "rating": 4.0,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone XS",
+    "price": 160000,
+    "featured": false,
+    "rating": 4.2,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel 2",
+    "price": 65000,
+    "featured": false,
+    "rating": 3.7,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 6T",
+    "price": 95000,
+    "featured": false,
+    "rating": 3.9,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy S20",
+    "price": 175000,
+    "featured": false,
+    "rating": 4.2,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone X",
+    "price": 200000,
+    "featured": true,
+    "rating": 4.4,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel XL",
+    "price": 70000,
+    "featured": false,
+    "rating": 3.6,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 5",
+    "price": 80000,
+    "featured": false,
+    "rating": 3.8,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy S10",
+    "price": 150000,
+    "featured": true,
+    "rating": 4.3,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "price": 130000,
+    "featured": false,
+    "rating": 4.0,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel",
+    "price": 55000,
+    "featured": false,
+    "rating": 3.5,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 3T",
+    "price": 60000,
+    "featured": false,
+    "rating": 3.6,
+    "company": "One Plus"
+  },
+  {
+    "name": "Galaxy S9",
+    "price": 140000,
+    "featured": false,
+    "rating": 4.1,
+    "company": "Samsung"
+  },
+  {
+    "name": "iPhone 7",
+    "price": 110000,
+    "featured": false,
+    "rating": 3.9,
+    "company": "Apple"
+  },
+  {
+    "name": "Pixel XL 2",
+    "price": 90000,
+    "featured": false,
+    "rating": 3.8,
+    "company": "Google"
+  },
+  {
+    "name": "OnePlus 2",
+    "price": 50000,
+    "featured": false,
+    "rating": 3.5,
+    "company": "One Plus"
+  }
+]
